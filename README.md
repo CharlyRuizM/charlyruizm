@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Product Strategy
 - 👯 I’m looking to collaborate on a Product team
 - 📫 How to reach me: ingecarlosrm@gmail.com
-- ⚡ Fun fact: ...
+
 <h4>⚒&nbsp;&nbsp;&nbsp;Knowledges</h4>
 <p >
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
