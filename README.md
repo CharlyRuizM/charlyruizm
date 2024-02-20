@@ -5,7 +5,7 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/charlyruizmejia)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://dribbble.com/carlosruizmejia)
 
-- 🔭 I’m currently working on developing a UX team on Wakkamole
+- 🔭 I’m currently working on developing a UX team on Fidelity Marketing
 - 🌱 I’m currently learning Product Strategy
 - 👯 I’m looking to collaborate on a Product team
 - 📫 How to reach me: ingecarlosrm@gmail.com
